@@ -1,0 +1,32 @@
+h3 {
+    background-color: yellow;
+}
+
+.h3dois {
+    background-color: red;
+}
+
+.h3tres {
+    background-color: blue;
+}
+
+
+/* 
+    tags 
+        <h3></h3> <p></p> <div></div> <a></a> 
+        <img>
+        Algumas tem fechamento outras não. 
+
+    comportamento das tags 
+        display: block; (espaçoso)
+            ex: h3, p, div
+
+    comportamento da tag 
+        display: inline;(Vamos ficar juntinhos)
+            tag a
+        
+        
+    display: flex; -- 80% responsiva. Posiciona os elementos melhor.
+
+    Para acessar a classe no css tem que colocar o "." seguido do nome da classe
+*/
